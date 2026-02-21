@@ -1,3 +1,4 @@
+// Sync trigger v1.0.3
 import React, { useState, useEffect } from 'react';
 import ItemSection from './components/ItemSection.tsx';
 import EstimateSection from './components/EstimateSection.tsx';
