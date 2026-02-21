@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Pixar World Construction - Estimate Pro",
+  "description": "A comprehensive construction management application for Pixar World Construction Private Limited, featuring estimate generation, business analytics, follow-up reminders, engineering calculators, and a professional drawing pad for site sketches.",
+  "requestFramePermissions": [
+    "notifications"
+  ]
+}
